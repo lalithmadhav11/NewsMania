@@ -1,0 +1,10 @@
+# Global ignores
+node_modules/
+.env
+*.log
+
+# Sub-folder specific
+client/.env
+server/.env
+client/node_modules/
+server/node_modules/
